@@ -1,0 +1,7 @@
+Package: TDCorrections
+Type: Package
+Title: Tajima's D Correction Package
+Version: 0.0.1.0
+Encoding: UTF-8
+Depends: pegas
+RoxygenNote: 7.3.1
